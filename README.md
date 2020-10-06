@@ -1,0 +1,6 @@
+# Python
+training 
+
+eueueu
+
+heheiei
