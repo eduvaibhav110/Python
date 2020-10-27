@@ -1,0 +1,14 @@
+Here we see the use of XOR in c++
+Today we swap two nos without using third variable.
+
+#include<iostream>
+using namespace std;
+int main(){
+  int a,b
+  cin>>a>>b;
+  a=a^b;
+  b=b^a;
+  a=a^b;
+  cout<<a<<" "<<b;
+  return 0;
+}
